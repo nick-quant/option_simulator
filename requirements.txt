@@ -5,3 +5,4 @@ numpy==1.23.3
 py-vollib==1.0.1
 py-vollib-vectorized==0.1.1
 ipywidgets==8.1.5
+ipympl
